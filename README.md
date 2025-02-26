@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I teach Computer Science courses at Sinclair Community College, Dayton, Ohio.
+I teach Computer Science courses at Sinclair Community College, Dayton, Ohio.<br>
 Before the current gig, I taught AP Computer Science and Cybersecurity at Lakota East High School.
